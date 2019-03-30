@@ -1,0 +1,8 @@
+com\erpproject\entities\Person.class
+com\erpproject\entities\City.class
+com\erpproject\entities\Contact.class
+com\erpproject\entities\State.class
+com\erpproject\common\Entity.class
+com\erpproject\entities\District.class
+com\erpproject\entities\Country.class
+com\erpproject\entities\Address.class
